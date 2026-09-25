@@ -1,0 +1,6 @@
+{
+  "name": "Apex Bank ATM Simulation",
+  "description": "Interactive ATM kiosk simulation with user profile accounts, password security, persistent preferences across sessions, backtracking cash dispenser, card authentication, real-time vault management, and receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
